@@ -34,6 +34,7 @@ With this scripts, the cone angle can be changed. So it does not only work for 4
 
 Important notes for slicing settings:
 If you find yourself with fractal art after the back transformation. It's important that you use relative E distances.
+
 ![image](https://user-images.githubusercontent.com/116922168/204152231-f9a4dde9-a5be-4574-bb3a-4d148a44c7c9.png)
 
 ### License
